@@ -14,8 +14,8 @@
         <ImageView
             android:id="@+id/top_stores_recycler_view_image_view"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_height="120dp"
+           android:background="@drawable/img_profile"/>
 
         <TextView
             android:textSize="18sp"
